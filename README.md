@@ -1,4 +1,4 @@
-# Project title: Form Exercise with Formik
+# Project title: ATM Activity
 
 ## Description of Project:
 This project allows you to deposit money at an ATM and also allows you to withdraw money as long as the amount is less than what is available.
